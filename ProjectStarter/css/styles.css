@@ -1,0 +1,45 @@
+
+nav {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+
+a.navegation {
+    color: white;
+    line-height: 200%;
+}
+
+p {
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+li {
+
+    display: inline-block;
+}
+
+nav {
+
+    background-color: black;
+
+}
+
+body {
+    background-color: aquamarine;
+}
+
+img{
+    border: 5px solid lightblue;
+    height: 100px;
+
+}
+
+img.main {
+    height: 400px;
+}
+
+
